@@ -21,5 +21,15 @@ public class MainActivity extends Activity {
 	protected void onStart() {
 		super.onStart();
 	}
+	
+	/**
+	 * 
+	 * @Title: onPause
+	 * @Description: geekgroupÌí¼ÓµÄ
+	 */
+	@Override
+	protected void onPause() {
+		super.onPause();
+	}
 
 }
